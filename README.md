@@ -1,7 +1,7 @@
 # Lerna Monorepo
 by Harry Ghazni
 
-<img src="https://github.com/hghazni/Lerna-Monorepo/blob/master/assets/images/lerna_logo.png" alt="Lerna">
+<img src="https://github.com/hghazni/Lerna-Monorepo/blob/master/assets/images/lerna_logo.png" style="width: 400px;display: block; margin: auto;" alt="Lerna">
 
 A Lerna playground to practice monorepo setup and passing projects as module depedencies to be ran in a wrapper package.
 
