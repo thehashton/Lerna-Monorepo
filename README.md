@@ -1,7 +1,13 @@
-#Lerna Monorepo
+# Lerna Monorepo
 by Harry Ghazni
 
+<img src="https://github.com/hghazni/Grumble/Lerna-Monorepo/assets/images/lerna_logo.png" alt="Lerna">
+
+A Lerna playground to practice monorepo setup and passing projects as module depedencies to be ran in a wrapper package.
+
 ### Instructions
+Getting setup with this Lerna Monorepo.
+
 ```
 npm i lerna@2.0.0-beta.20 -g
 npm install
