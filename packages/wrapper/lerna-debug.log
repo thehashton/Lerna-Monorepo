@@ -1,0 +1,7 @@
+lerna(info)    Lerna v2.0.0-beta.20
+lerna(debug)   Attempting running BootstrapCommand.initialize
+lerna(debug)   Successfully ran BootstrapCommand.initialize
+lerna(debug)   Attempting running BootstrapCommand.execute
+lerna(info)    Linking all dependencies
+lerna(error)   Errored while running BootstrapCommand.execute
+    1
