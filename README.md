@@ -1,7 +1,13 @@
 # Lerna Monorepo
 by Harry Ghazni
-
-<div style="width: 400px;display: block; margin: auto">
+<style>
+.lerna-logo {
+    width: 400px;
+    display: block;
+    margin: auto
+}
+</style>
+<div class="lerna-logo">
 <img src="https://github.com/hghazni/Lerna-Monorepo/blob/master/assets/images/lerna_logo.png" style="width: 400px;display: block; margin: auto" alt="Lerna">
 </div>
 
